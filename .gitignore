@@ -218,3 +218,7 @@ include/openssl/srp.h
 
 /rust
 /python
+
+
+# docker build output
+/platformbundles
